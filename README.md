@@ -40,12 +40,12 @@ Password Strength Checker is a Python script that evaluates the strength of a pa
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Ak/password-strength-checker.git
+   git clone https://github.com/Akashhorambe/CODTECH-Task1.git
    ```
 
 2. **Navigate to the project directory**:
    ```sh
-   cd password-strength-checker
+   cd CODTECH-TASK1
    ```
 
 3. **Install necessary dependencies**:
